@@ -2,6 +2,6 @@
 
 @interface CDVCrash : CDVPlugin
 
-- (void) crash:();
+- (void) crash;
 
 @end

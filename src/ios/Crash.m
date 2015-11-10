@@ -2,7 +2,7 @@
 
 @implementation CDVCrash
 
-- (void)crash:()
+- (void)crash
 {
     @throw NSInternalInconsistencyException;
 }
